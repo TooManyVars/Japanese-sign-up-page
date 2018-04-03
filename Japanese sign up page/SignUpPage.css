@@ -1,0 +1,31 @@
+﻿body {
+
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.All-Content {
+    padding-top: 250px;
+}
+
+.WelcomeHeader {
+    padding-bottom: 40px;
+}
+
+#signup-btn {
+    padding-left: 13px;
+}
+
+h1
+{
+    color: black;
+    border: 15px solid white;
+    background-color: white;
+    padding-left: 20px;
+}
+
+.SignUpForm
+{
+    padding-left: 40px;
+    text-align: center;
+}
